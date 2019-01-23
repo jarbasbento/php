@@ -1,2 +1,3 @@
 <?php 
-	echo "Curso de PHP"
+	echo "Curso de PHP 7";
+?>
