@@ -1,2 +1,2 @@
 <?php 
-	echo "teste GIT"
+	echo "Curso de PHP"
